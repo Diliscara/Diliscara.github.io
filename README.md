@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 <html>
-  <head><title>Diliscara.github.ReadMe.io</title>
+  <head>
  <body>
 <pre>
 <h1>
