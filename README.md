@@ -2,14 +2,6 @@
 <html>
   <head><title>Diliscara.github.ReadMe.io</title>
  <body>
-<style>
-  body{ color: #00ff00; background: #000000;
-  }
-  a{
-   color: #00ff00; background: #000000;
-    
-  }
-   </style>
 <pre>
 <h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/Diliscara?tab=repositories">Repos</a>
