@@ -1,4 +1,3 @@
-# Diliscara.github.io
 <html>
   <head><title>Diliscara.github.ReadMe.io</title>
  <body>
